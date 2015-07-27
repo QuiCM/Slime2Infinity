@@ -6,11 +6,9 @@ using Terraria;
 using Terraria.ID;
 using TerrariaApi.Server;
 
-using TShockAPI;
-
 namespace Slime2Infinity
 {
-	[ApiVersion(1, 19)]
+	[ApiVersion(1, 20)]
 	public class Plugin : TerrariaPlugin
 	{
 		public override string Author
