@@ -8,7 +8,7 @@ using TerrariaApi.Server;
 
 namespace Slime2Infinity
 {
-	[ApiVersion(1, 21)]
+	[ApiVersion(1, 22)]
 	public class Plugin : TerrariaPlugin
 	{
 		public override string Author
